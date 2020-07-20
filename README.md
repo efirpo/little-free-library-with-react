@@ -1,11 +1,11 @@
-# **Little Free Library**
+# Little Free Library React App
+#### Author: **_Matt Stroud and Ethan Firpo_**
 
-#### Author: **_Jessica Hvozdovich and Ethan Firpo_**
-#### June 8, 2020
+uses the Little Free Library API created by Jessica Hvozdovich and Ethan Firpo, 2020.
 
 ### Description
 
-_This application serves as an introduction to building an API with C#/.NET Core. The API is a public library book tracker. Users can update current stocks of little librairies and keep track of books they have checked out._
+This application allows users to browse a fictional Little Free Library collection of neighborhood libraries. It combines a C#.NET Entity Framework MySql-based API with a React/JavaScript front end.
 
 ### Instructions for use:
 1. Open Terminal (macOS) or PowerShell (Windows)
